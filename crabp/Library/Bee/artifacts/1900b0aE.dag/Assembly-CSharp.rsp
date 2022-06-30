@@ -379,6 +379,9 @@
 "Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs"
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
+"Assets/scripts/entity/Entity.cs"
+"Assets/scripts/player/rgbController.cs"
+"Assets/scripts/Stuff.cs"
 -langversion:9.0
 
 /deterministic
