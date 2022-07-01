@@ -158,6 +158,12 @@ public static class Stuff
     }
 }
 
+public struct KeyBinds
+{
+    public static KeyCode jump = KeyCode.Space;
+    public static KeyCode sprint = KeyCode.LeftShift;
+}
+
 /*
  * m_YourThirdButton.onClick.AddListener(() => ButtonClicked(42));
  * case var e when e is math_func_indic.add:

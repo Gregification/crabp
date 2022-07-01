@@ -380,6 +380,9 @@
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
 "Assets/scripts/entity/Entity.cs"
+"Assets/scripts/player/moveCamera.cs"
+"Assets/scripts/player/Player.cs"
+"Assets/scripts/player/rgbCamController.cs"
 "Assets/scripts/player/rgbController.cs"
 "Assets/scripts/Stuff.cs"
 -langversion:9.0
